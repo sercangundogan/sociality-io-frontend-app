@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask6" d="M6,0H31a6,6,0,0,1,6,6V31a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(14 60)"/>
+    </clipPath>
+  </defs>
+  <g id="Logo6" transform="translate(0 0)">
+    <g id="Mask6-2" data-name="Mask6" transform="translate(-14 -60)">
+      <path id="Mask6-3" data-name="Mask6" d="M6,0H31a6,6,0,0,1,6,6V31a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(14 60)"/>
+      <g id="Mask6-4" data-name="Mask6" clip-path="url(#clip-path)">
+        <g id="Logo6-2" data-name="Logo6" transform="translate(13 59)" opacity="0.22">
+          <image id="Logo6-3" data-name="Logo6" width="38" height="38" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAEKklEQVR4nO2Yy28bRRjAf7Nrr53FzstrN32EJgERmz7ctAUkSktLHwhV4gISR869cODP6IELQkortQWlFFTUQ5E4VU0DFUqhtIeWBNK4bkxf2GnasmuvvV57hkMSNRFBwofQVPLv9M1IK/3m+2a+Ga2wndJdIMrKwhG2U1JP22IpNMB52hJL4GhP2+DfaIo1SlOsUZpijdIUa5RnTEyI+QCEtsT88hNYNJISohGEAOUp0AQiCKpcg2AAEQDlAV4RtOVN9sJ0IFrCqInvqZ3+GJw/UbevUDt1CCqPUJmL1E5/BI9zEA4vqxQszJimQTBAfXQQ//jXhPrfQt44R+3YINqrHyLHv8U/+imqdxdtq9ajGYuT7ZY9zJYQAL4vUSiMoE61WqPieUSjzyGAklshHAqh62LRN07RRSmFmNsuwnZKNvMPxUAA7AIydxFhJlCPphCdzyNe2g8PplD5XzFS73Azl+OPW1ksK4ZhGHhelYF0muGRETRd57Xt2zGCBlO3c7RGoiTicTLZLPlCgTffeJ1MdorC9DQD6TRj4+MYhkEq2U+l4s2v01mwbIHQNeTDLHL8PNq6TYieHchr36B3bUa5M8gbF9DWbkSv+3x2ZJB3Dx5kYnISKxZjMpPhzt27DKTTnDg5RLlcJp/P88F771Or+UxmMpimyRdfnsKKWXS0t/LL1SsUSy7lchkpJZs3bqDklmcL+MRLzJby8gn8oWOQSFK/OoR/9DDKzs+W+OgneLcukUz2M5DeQiqZoq21lW1bt3Lp8s+8vX8fB/buIZvNMnkzg+04tJgtFKYfEI/H2bt7F+eGL/BCXx/JZIozZ8+yb89u+np6mMrl0LQnp35BKRXoAfA91J1R0COomUlEawxCFur+NUS8F/3FA4RFneNDJ9k2MMD18TE62tqJtkYZHhlhQ+pl+np66GjvYPiHEVYlEqxKJHCKJaqeh2XFqFQ8/rJtdF0jHA5T9aps2byJWCxGterD3Jt/TkwgQkHkxDD10c/RerYiendRP38YLXUAsSZN/acT6DsOIdZtJIxASkm9XmdmZobudWt49NimVCrR1dWF7/u0hA3yhQdomkYwGMQpFuleuxrbKTHz8CG967u5dz9PKBSivb2dYrGINtuGnH+UUo6dpXbmK0TXJlRulNp3Z9D6diKnfqR26ggq/xsioFPzfXzfRwhBIpHAKbqYpollWVQqFaSUuGWPtrY2IpEIhmEQtyxsx0XXddasXo1TdOns7MQ0TUold15qiVOp61C2UfevI3p3gOeg8mOIvp3gTKMKvyO6X5ltLVL+96bUOM5iMSkhHEEYoNwq6EFESKCKLgRNRGhuvu4v9/XkLO6SmgZVF1WdG8sayp+LffdJ/D/cmc/Y62IF0BRrlKZYozTFGqUp1igaK+//K0A0ANxj5ck5fwP4FLnJkAEhjwAAAABJRU5ErkJggg=="/>
+          <rect id="Logo6-4" data-name="Logo6" width="38" height="38" fill="rgba(0,0,0,0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
